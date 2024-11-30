@@ -1,0 +1,9 @@
+# NBA Portal Backend
+
+before running, make a .env file with
+- SERVER_PORT
+- MONGODB_URL
+- ACCESS_TOKEN_SECRET
+- ACCESS_TOKEN_EXPIRES_IN
+- REFRESH_TOKEN_SECRET
+- REFRESH_TOKEN_EXPIRES_IN

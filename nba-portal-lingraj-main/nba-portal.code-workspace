@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "packages/frontend"
+		},
+		{
+			"path": "packages/backend"
+		}
+	],
+	"settings": {
+		"editor.tabSize": 4,
+		"liveServer.settings.multiRootWorkspaceName": "frontend"
+	}
+}

@@ -1,0 +1,9 @@
+{
+  "name": "nba-portal",
+  "version": "1.0.0",
+  "description": "NBA Portal",
+  "scripts": {},
+  "workspaces": [
+    "./packages/*"
+  ]
+}
